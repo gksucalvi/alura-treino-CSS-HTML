@@ -30,4 +30,5 @@ body{
     border-radius: 5px;
     color: var(--branco-principal);
     padding: 1em;
+    display: block;
 }
