@@ -38,6 +38,7 @@ body{
     color: var(--branco-principal);
     padding: 1em;
     display: block;
+    text-decoration: none;
 }
 
 .botao_secundario{
