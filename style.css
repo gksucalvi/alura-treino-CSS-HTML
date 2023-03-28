@@ -118,4 +118,5 @@ body{
 
 .lista__item{
     font-size: 32px;
+    color: var(--branco-principal);
 }
