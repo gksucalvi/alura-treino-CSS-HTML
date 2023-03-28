@@ -136,9 +136,10 @@ body{
 .lista__link{
     padding-left: 2em;
     font-size: 16px;
+    color: var(--branco-principal);
 }
 
 .rodape__texto{
     font-size: 14px;
-    
+    color: var(--branco-principal);
 }
