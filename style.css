@@ -103,14 +103,4 @@ body{
 
 .despositivos__lista{
     display: flex;
-    justify-content: center;
-    list-style-type: none;
-}
-
-.dispositivos{
-    text-align: center;
-}
-
-.dispositivo__titulo{
-    
 }
