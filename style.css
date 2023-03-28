@@ -100,3 +100,13 @@ body{
 .container__descricao{
     padding: 2em;
 }
+
+.despositivos__lista{
+    display: flex;
+    justify-content: center;
+
+}
+
+.dispositivos{
+    text-align: center;
+}
