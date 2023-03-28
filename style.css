@@ -121,3 +121,7 @@ body{
     font-size: 32px;
     color: var(--branco-principal);
 }
+
+.rodape{
+    padding: 2em 0;
+}
