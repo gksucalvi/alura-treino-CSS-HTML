@@ -124,11 +124,10 @@ body{
 
 .rodape{
    text-align: center;
-   
-
 }
 
 .rodape__lista{
     display: flex;
     list-style-type: none;
+    text-decoration: none;
 }
