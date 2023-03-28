@@ -101,6 +101,7 @@ body{
     padding: 2em;
 }
 
-.despositivos__lista{
+.dispositivos__lista{
     display: flex;
+    justify-content: center;
 }
