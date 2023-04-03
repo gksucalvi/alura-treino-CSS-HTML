@@ -129,8 +129,8 @@ body{
 .rodape__lista{
     display: flex;
     list-style-type: none;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     
 }
 
@@ -144,4 +144,6 @@ body{
 .rodape__texto{
     font-size: 14px;
     color: var(--branco-principal);
+    margin-left: 10px;
+    margin-right: 10px;
 }
