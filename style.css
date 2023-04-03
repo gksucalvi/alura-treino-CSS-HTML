@@ -124,12 +124,13 @@ body{
 
 .rodape{
    text-align: center;
-   text-decoration: none;
+   
 }
 
 .rodape__lista{
     display: flex;
     list-style-type: none;
+    text-decoration: none;
     margin-top: 20px;
     margin-bottom: 20px;
     
@@ -138,7 +139,6 @@ body{
 .lista__link{
     padding-left: 2em;
     font-size: 16px;
-   
     color: var(--branco-principal);
 }
 
