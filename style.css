@@ -124,6 +124,7 @@ body{
 
 .rodape{
    text-align: center;
+   text-decoration: none;
 }
 
 .rodape__lista{
@@ -137,7 +138,7 @@ body{
 .lista__link{
     padding-left: 2em;
     font-size: 16px;
-    text-decoration: none;
+   
     color: var(--branco-principal);
 }
 
