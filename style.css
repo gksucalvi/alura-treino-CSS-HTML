@@ -140,6 +140,7 @@ body{
 
 .lista__link a{
     text-decoration: none;
+    color: var(--branco-principal);
     margin-left: 1em ;
 }
 
