@@ -145,9 +145,7 @@ body{
 }
 
 .rodape__texto{
+    margin: 1em 0;
+    color: var(--cinza-secundario);
     font-size: 14px;
-    color: var(--branco-principal);
-    margin-left: 30px;
-    margin-right: 30px;
-    padding: 0em 1em 3em 1em;
 }
