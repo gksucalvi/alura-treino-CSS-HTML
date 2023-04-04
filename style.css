@@ -128,12 +128,11 @@ body{
    
 }
 
-.rodape__lista{
+.rodape__lista {
     display: flex;
     justify-content: center;
     list-style-type: none;
     margin-top: 1em;
-    
 }
 
 .lista__link a{
