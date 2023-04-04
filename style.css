@@ -145,3 +145,7 @@ body{
     color: var(--cinza-secundario);
     font-size: 14px;
 }
+
+.lista__link a:hoover{
+    color: var(--botao-azul);
+}
