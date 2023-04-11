@@ -46,7 +46,8 @@ body{
 }
 
 .container__botao:hover {
-    color: var(--botao-azul-efeito);
+    background-color: var(--botao-azul-efeito);
+    color: var(--cor-de-fundo);
 }
 
 .botao_secundario{
