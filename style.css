@@ -147,7 +147,7 @@ body{
 }
 
 .lista__link a:hoover{
-    color: var(--botao-azul);
+    color: #167BF7;
 }
 
 .lista__item a:active {
