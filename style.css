@@ -140,7 +140,7 @@ body{
     margin-left: 1em;
 }
 
-.lista__link a:hoover{
+.lista__link a:hover{
     color: var(--botao-azul);
 }
 
