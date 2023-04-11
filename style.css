@@ -144,6 +144,10 @@ body{
     color: var(--botao-azul);
 }
 
+.lista__link a:active{
+    color: purple;
+}
+
 .rodape__texto {
     margin: 1em 0;
     color: var(--cinza-secundario);
