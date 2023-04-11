@@ -144,7 +144,7 @@ body{
     color: var(--botao-azul);
 }
 
-.lista__link a:active{
+.lista__link a:active {
     color: purple;
 }
 
