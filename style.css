@@ -160,3 +160,7 @@ body{
     font-size: 14px;
 }
 
+
+.botao_secundario:hover {
+    width:3%
+}
