@@ -49,6 +49,7 @@ body{
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
     box-shadow: 10px 10px 10px 10px;
+    scrollbar-shadow-color: azure ;
 }
 
 .botao_secundario{
