@@ -48,8 +48,7 @@ body{
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
-    box-shadow: 10px 10px 10px 10px;
-    scrollbar-shadow-color: azure ;
+    box-shadow: 10px 10px azure;
 }
 
 .botao_secundario{
